@@ -6,7 +6,7 @@
                 background-repeat: no-repeat;
                 background-attachment: fixed;
                 background-size: 100% 100%;
-                color: #333333;
+                color: #1f1f1f;
             }
             
             section#main {
@@ -24,7 +24,7 @@
             .div-titlu h4 {
                 padding: 10px;
                 font-size: 24px;
-                color: #333333;
+                color: #201e1e;
             }
             
             .div-buttons {
@@ -103,12 +103,8 @@
             div#tabel-dates {
                 border: 0.5px solid white;
                 background-color: #2b8a57;
-            }
-            
-            div#lection {
-                background-color: #389e6880;
-            }
-            
+            } 
+
             .tabel-info {
                 text-align: center;
                 margin-top: 25px;
@@ -121,3 +117,4 @@
                 font-weight: bold;
                 line-height: 24px;
             }
+            
